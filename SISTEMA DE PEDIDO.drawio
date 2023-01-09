@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T15:54:44.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="2vayxoxAGAiQfGR3GnBe" version="20.8.3" type="github"><diagram id="gdnSrDoX7RbE-FqMLIBX" name="Página-1">7VpbW9s4EP01eVy+2I5zecyNhS1sWVJ2277wiVhJxNpWKsu59Nd3RvJdTqAlJHzLvtjxeCRZM0dnjgQNZxhsfhdkubjmHvUbdtPbNJxRw7btpu3CDS1bbbGabVtb5oJ5iS03TNh3mjom1ph5NCo5Ss59yZZl45SHIZ3Kko0Iwddltxn3y6MuyZwahsmU+Kb1H+bJhbZ27U5uv6BsvkhHtto9/SYgqXMyk2hBPL4umJxxwxkKzqX+FWyG1MfopXHR7c53vM0+TNBQPqfB5I8Pg8fph8XtLX2gX4deYN9f/WYl84jkNp0x9SAAySMXcsHnPCT+OLcOBI9Dj2K3TXjKfa44X4LRAuMjlXKbZJPEkoNpIQM/eavHxIF2ziUxRTwWU7pnAt0EE0TMqdw30VYWcgAr5QGVYgsNBfWJZKvyh5AENPPML48r/EhC+zNh7p4izBBMsf2ctFcPX/DhrJs+jjbFl6Nt8emGCgaTpyIxniJn7ilzlnzlivhxMtL1BJ6HPoMJUyOf5WytF0zSyZKoOKyBG+sWwIoKSTf7w2nOPuNW3SIh1oww1zlLWanPosBQ7eZrYbxlBGw0uL8Zjy5HHydGuCIp+L8Zpdrl8ABVLtEv2MyxrJzNfL6eLoiQZx6R5IFEdEeIDxHXVjmwbTOuvZqwWs3XiqttvyXugIK+nzwOyBOW+0yi2JXSZxOFatoXgmwLDkvOQhkVer5BQ46UrlVZgonYyZOte8xTn33aC9Bw4kpy5pbwcOJK8nyE9A6BEAMCrQoLt3oVFtAflrTKsfGzUGt13dI4Tqei9ar+1l7/14FmOmahAJxfXvUPXgKYAKF/j5VgRxUgPpuH8DjFQi0OUxZazcpib9bU205NYXBfrd72jHBbjaHdGPTBOA5XjOAEqcc8jsPjZQSRgMHgi9o+fN7gQcCvOf6aU4Hud3eXI1ybamXMGWSI1LpPeaBySWQM01IDXsOl/2dj6DS61tXlZGykG2Ivyzk28oQZYrD36icvAuZ5msBoxL6TB9UVUkiyXqBfd9BwR9gXcFak6UvBR2FryH2OrBPyEHuZMd+vmA6AjHYZGJZTA4z2MYVYykkFYNgZMG44ZA3uvAgOitmMA7RDjMgukOis8wj387CXVXd1XQruYfxrW0Ekid6gR7EPfAi/QxxUqWkPoUYjyb/FpqT+ryKmyiVWjXbP+OU4kGm9JVWRvTuRqsgOmp5UFc4LVcXLktb+P2m/kLQXnyr82mahU17zTyq4/YrvlTYXllE5FEuPdxD0sc88jB1XnQg76qGHZoDqocd48unjX3emBHqzhx69iohxzbge+dDD3Es4mYb5G1hkBlUfg4v6QXItQ9QF4hNGijB8NmVS65Q2CTBS4UOkA1bVKHQDWlepIH1J8a6UsBpjyaMoxpdPdfUtJqFkoI+wlceiJQ9RFPdHK/WnkUQNrWjokbN3o3g6lYVr1Sxc2znqwu0YAGtlALulkoswlcnJNgfFbkE0P4UDLZZZOOMChDUioIPXgUujFFMV7fwkSCOp+nG4gSym4B+jtM5c3gm03GqhrIPWccW0uTFX5yC340+3Xw5WE05yCuI45XXc6p76FMQxN7tDEvFk6QZsKvA+oWLF9CLkxq6zZp3RR6IWr8HfVd/SNtqjEFzlbGH/IHjVbtfYXe/YIYd8hTeoXxKFKJaHqucFKY7gFL0jtWs35oJjT3VA1KxnxF/gKB42wB6GSvoqvst7LtHeef/qov9u+MSu8InbquGTQ4kheMz/AUCr+Pz/KJzxDw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-09T15:56:54.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zxJ0mp3WQhVGV2kyBrbE" version="20.8.3" type="github">
+  <diagram id="gdnSrDoX7RbE-FqMLIBX" name="Página-1">
+    <mxGraphModel dx="1114" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SJKBjcKhRRebeZCdm2_L-8" target="SJKBjcKhRRebeZCdm2_L-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SJKBjcKhRRebeZCdm2_L-8" target="SJKBjcKhRRebeZCdm2_L-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-8" value="MS Cliente" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-14" value="DB_PEDIDOS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="240" y="60" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="SJKBjcKhRRebeZCdm2_L-15" target="SJKBjcKhRRebeZCdm2_L-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SJKBjcKhRRebeZCdm2_L-15" target="SJKBjcKhRRebeZCdm2_L-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="485" y="370" />
+              <mxPoint x="415" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qry4d1unOz0627RzU6z1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.367;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SJKBjcKhRRebeZCdm2_L-15" target="SJKBjcKhRRebeZCdm2_L-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="330" />
+              <mxPoint x="64" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-15" value="FILA_PEDIDOS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="400" y="200" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-19" value="1º Envia pedido ao DB, &lt;br&gt;gera UUID e registra &lt;br&gt;com status: EM ANÁLISE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="60" y="130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-20" value="2º Posta o pedido em uma fila, &lt;br&gt;com os dados dos produtos &lt;br&gt;para consultar no MS de estoque" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="110" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SJKBjcKhRRebeZCdm2_L-21" target="SJKBjcKhRRebeZCdm2_L-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SJKBjcKhRRebeZCdm2_L-21" target="SJKBjcKhRRebeZCdm2_L-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="370" />
+              <mxPoint x="485" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-21" value="MS Estoque" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-23" value="DB_ESTOQUE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="960" y="50" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-25" value="3º Verifica se todos os itens solicitados&amp;nbsp;&lt;br&gt;existem em estoque e se possuem&amp;nbsp;&lt;br&gt;quantidade disponível para venda." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="710" y="100" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-27" value="4º Retorna o status do pedido&amp;nbsp;&lt;br&gt;com informações se os produtos&amp;nbsp;&lt;br&gt;estão disponíveis ou não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="585" y="300" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-29" value="FILA_RETRY" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="330" y="480" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SJKBjcKhRRebeZCdm2_L-30" value="Caso o micro Serviço de estoque&lt;br&gt;esteja indisponível&lt;br&gt;o pedido deverá entrar em uma fila&lt;br&gt;para nova tentativa.&lt;br&gt;Haverá 3 tentativas,&lt;br&gt;em caso de falha das 3, retornará o status FALHA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="285" y="540" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qry4d1unOz0627RzU6z1-2" value="5º A fila devolve o status. O MS Cliente&lt;br&gt;Atualiza o pedido no DB_PEDIDOS&lt;br&gt;e devolve se a venda pode&amp;nbsp;&lt;br&gt;ser concluída" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="255" width="230" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
